@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "AmoriFlow",
+    "slug": "amoriflow",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logoamoriflow.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/logoamoriflow.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "742fcad5-5d26-4a91-9093-a55a456517c6"
+      }
+    }
+  }
+}
