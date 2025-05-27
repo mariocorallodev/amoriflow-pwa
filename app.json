@@ -42,7 +42,8 @@
       "favicon": "./assets/logoamoriflow.png",
       "build": {
         "output": "static"
-      }
+      },
+      "templatePath": "./template/index.html"
     }
   }
 }
