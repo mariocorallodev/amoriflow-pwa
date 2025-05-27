@@ -37,6 +37,12 @@
     "developmentClient": {
       "silentLaunch": false
     },
-    "owner": "mariocorallodev"
+    "owner": "mariocorallodev",
+    "web": {
+      "favicon": "./assets/logoamoriflow.png",
+      "build": {
+        "output": "static"
+      }
+    }
   }
 }
